@@ -1,7 +1,6 @@
-
-### Parts List  
+# Parts List  
 1. Ardunio Nano Every
-2. SMD N-Channel MOSFET (IRLML6344TRPBF)
+2. SMD N-Channel MOSFET SOT 23-3 (IRLML6344TRPBF)
 3. 0806 SMD Resistors 
 4. Header Pins
 5. HC-12
